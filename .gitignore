@@ -1,0 +1,11 @@
+.*
+!.gitignore
+*.so
+*.pyc
+__pycache__/
+*.png
+*.h5
+*.npz
+*.csv
+*.zip
+results/
