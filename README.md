@@ -37,12 +37,14 @@ The algorithm names are defined in ```outlier_experiments.py```.
 
 ## Citation
 
+```
 @incollection{wang_effective_2019,
   title = {Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network},
   author = {Wang, Siqi and Zeng, Yijie and Liu, Xinwang and Zhu, En and Yin, Jianping and Xu, Chuanfu and Kloft, Marius},
   booktitle = {Advances in Neural Information Processing Systems},
   year = {2019}
 }
+```
 
 ## License
 
