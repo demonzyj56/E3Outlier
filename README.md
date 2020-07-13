@@ -1,6 +1,9 @@
 # Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network
 By Siqi Wang, Yijie Zeng, Xinwang Liu, En Zhu, Jianping Yin, Chuanfu Xu, Marius Kloft.  In [NeurIPS 2019](https://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network).
 
+## Update
+- 2020/07/13: Added multiple score refinement strategies (ensemble, re-weighting) which improve performance of E3Outlier. Added several recent unsupervised outlier detection implementations, including DSEBM, RSRAE, RSRAE+, MO-GAAL.  Checkout the `extension` branch for more information.
+
 ## Introduction
 This is the official implementation of the E3Outlier framework presented by "Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network".
 The codes are used to reproduce experimental results of  E3Outlier and other unsupervised outlier detection (UOD) methods reported in the [paper](https://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf).
